@@ -348,6 +348,7 @@ Tools for executing commands or interacting with local environments safely.
 
 | Repo | Notes |
 |------|-------|
+| [404.directory](https://github.com/MM-sheng/404-directory) | Public read-only MCP with 12 tools for current official cloud/AI documentation, structured deployment verification, and trust-scored tool discovery. No account or API key; remote Streamable HTTP or identity-preserving install: `npx -y @mmvv1638/404-directory-mcp --source awesome-mcp-devops`. |
 | [askbudi/roundtable](https://github.com/askbudi/roundtable) | Multi-assistant MCP hub. |
 | [composiohq/rube](https://github.com/composiohq/rube) | 500+ app integrations. |
 | [julien040/anyquery](https://github.com/julien040/anyquery) | SQL over 40+ apps. |
