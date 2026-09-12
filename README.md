@@ -485,6 +485,18 @@ Comprehensive coverage of Cloudflare's platform.
 | **What it does** | ECS, Cloud Monitor, OOS operations. |
 | **Also available** | 📦 [ACK (Kubernetes)](https://github.com/aliyun/alibabacloud-ack-mcp-server), [DataWorks](https://github.com/aliyun/alibabacloud-dataworks-mcp-server), [DMS](https://github.com/aliyun/alibabacloud-dms-mcp-server), [Function Compute](https://github.com/aliyun/alibabacloud-fc-mcp-server). |
 
+### Cohesivity
+
+cohesivity.ai offers free agent native backend services. Anonymous account (no-signup) to get started through MCP or API. Hosting, postgres, email, storage, containers, LLMs, voice and third-party APIs. Includes free tiers and 5 USD/mo in AI and Search credits. Top-ups through x402.
+
+| | |
+|---|---|
+| **Repo** | [cohesivity-org/cohesivity-plugin](https://github.com/cohesivity-org/cohesivity-plugin) |
+| **Maintainer** | Cohesivity (Official) |
+| **What it does** | Provision and manage backend infrastructure through local and remote MCP tools. |
+| **Docs** | [Installation and client packages](https://github.com/cohesivity-org/cohesivity-plugin#readme) |
+| **Requires** | Node.js for the local MCP; OAuth sign-in for the remote management MCP at `https://cohesivity.ai/mcp/manage`. |
+
 ### Other Platforms
 
 | Repo | Notes |
